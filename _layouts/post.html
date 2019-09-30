@@ -17,8 +17,9 @@ layout: default
 {% include page-intro.html %}
 
 {{ content }}
-
+{% if page.comments %}
 {% include disqus.html %}
+{% endif %}
 
 <nav aria-label="Adjacent Posts">
   <ul>
