@@ -20,4 +20,6 @@ I was the developer and end user. This scenario drove the largest collective chu
 
 At work, our current site [metergroup.com](https://www.metergroup.com) is built on Wordpress. We have a front end developer working on it, plus team members like myself adding content. Our next site is a radical departure from Wordpress. It's going to be a static site.
 
-This site, [half-lifed.com](https://www.half-lifed.com), is the work of learning Jekyll, a static site tool. It's a bit confusing so far, but that's because I'm learning a new method. But, it's like we've come full circle in a way. Every page intentioned. Every image purposed. Static sites are generated quickly from tools like Jekyll, and a myriad of other solutions. However, the work resembles the work of old where pages are rolled out one at a time.
+This site, [half-lifed.com](https://www.half-lifed.com), is the work of learning Jekyll, a static site tool. It's a bit confusing so far, but that's because I'm learning a new method. But, it's like we've come full circle in a way. Every page intentioned. Every image purposed. Static sites are generated quickly from tools like Jekyll, and a myriad of other solutions. However, the work resembles the work of old where pages are rolled out one at a time. 
+
+Here's to learning new things.
