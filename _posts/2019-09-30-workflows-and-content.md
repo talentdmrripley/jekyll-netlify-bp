@@ -21,6 +21,6 @@ Netlify combined with Jekyll offers a pretty compelling solution which addresses
 
 ### Site generators I'm messing around with
 
- * [Nanoc](https://nanoc.ws)
- * [Jekyll](https://jekyllrb.com)
- * [Eleventy](https://www.11ty.io/) 
+ - [Nanoc](https://nanoc.ws)
+ - [Jekyll](https://jekyllrb.com)
+ - [Eleventy](https://www.11ty.io/) 
