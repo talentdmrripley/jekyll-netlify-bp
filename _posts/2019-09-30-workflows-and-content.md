@@ -8,7 +8,7 @@ comments: true
 
 Creating content is hard some times, or creating _creative_ content can feel burdensome. However, I think the real test of a website--static or dynamic--is the day to day managment of content, or _workflow_.
 
-Much like cooking, we enjoy the food and hope others do as well. Great content should offer visitors an experience. However, what we don't see is the work that went into building the experience, or managing all the experiences. 
+Much like cooking, the goal is the enjoyment of the food. Great content should offer visitors an experience. However, what visitors don't see is all of the work behind building the experience, or managing all the experiences. 
 
 While exploring different types of static site generators, I'm also gaining a sense of workflow. How easy is it to create new content? How much effort goes into edits? How _brittle_ is the framework as content and code collide? Which touchpoints do I need to be mindful of along the way?
 
