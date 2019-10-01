@@ -10,6 +10,6 @@ john_doe:
     email: johndoe@email.com
     web: http://twitter.com/johndoe
 chris_ripley:
-	name: Chris Ripley
-	email: overland_coug@gmail.com
-	web: https://twitter.com/talentdmrripley
+    name: Chris Ripley
+    email: overland_coug@gmail.com
+    web: https://twitter.com/talentdmrripley
