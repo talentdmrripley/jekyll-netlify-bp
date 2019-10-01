@@ -6,4 +6,4 @@ categories: jekyll updates
 comments: true
 ---
 
-Creating content is hard some times, or creating ~creative~ content can feel burdensome. However, I think the real test of a website--static or dynamic--is the day to day managment of content, or ~workflow~. 
+Creating content is hard some times, or creating creative*** content can feel burdensome. However, I think the real test of a website--static or dynamic--is the day to day managment of content, or workflow***. 
