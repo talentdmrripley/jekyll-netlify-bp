@@ -10,14 +10,17 @@ Creating content is hard some times, or creating _creative_ content can feel bur
 
 Much like cooking, we enjoy the food and hope others do as well. Great content should offer visitors an experience. However, what we don't see is the work that went into building the experience, or managing all the experiences. 
 
-While exploring different types of static site generators, I'm also attempting to gain a sense of workflow. 
+While exploring different types of static site generators, I'm also gaining a sense of workflow.
 
 	1. How easy is it to create new content?
 	2. How much effort goes into edits?
 	3. How _brittle_ is the framework as content and code collide?
 	4. Which touchpoints do I need to be mindful of along the way?
 
-### 1. Creating new content
-===============
+Netlify combined with Jekyll offers a pretty compelling solution which addresses my workflow questions. It comes with a light weight CMS. It's very basic, but allows pretty quick edits. A cool feature--or not cool, depending--forces you to tell the CMS the post is "ready to publish again." Kind of cool, no?
 
-So far, the static generators offer a straight forward path for creating new content. [Nanoc](https://www.nanoc.ws) offers post creation through the command line. In [Jekyll](https://www.jekyllrb.com], which powers this site) (currently), looks for new posts in the _posts folder, #.md files, prepended with a hard date such as 2019-09-30-title-of-post.md
+### Site generators I'm messing around with
+
+ * [Nanoc](https://nanoc.ws)
+ * [Jekyll](https://jekyllrb.com)
+ * [Eleventy](https://www.11ty.io/) 
