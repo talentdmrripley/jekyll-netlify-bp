@@ -64,13 +64,15 @@ kramdown:
 # Uncomment before use
 
 plugins:
-  - jekyll-feed
-  - jekyll-sitemap
+  - jekyll-seo-tag
 
-twitter_username: talentdmrripley
-linkedin_username: cripley
-instagram_username: talentdmrripley
-youtube_username: cbr600rrip
+social:
+  name: Chris Ripley
+  links:
+    - https://twitter.com/talentdmrripley
+    - https://www.facebook.com/chrisrips
+    - https://www.linkedin.com/in/cripley/
+    - https://www.instagram.com/talentdmrripley 
 
 disqus:
     # Leave shortname blank to disable comments site-wide.
