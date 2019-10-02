@@ -63,6 +63,9 @@ kramdown:
 # Include in processing (e.g. Netlify directives)
 # Uncomment before use
 
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
 
 twitter_username: talentdmrripley
 linkedin_username: cripley
