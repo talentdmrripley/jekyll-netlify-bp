@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: half-lifed.com
-email: overland_coug@gmail.com
+email: overlandcoug@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Professional and personal development after turning 50.
 baseurl: "" # the subpath of your site if applicable, e.g. /blog
@@ -34,14 +34,13 @@ netlifycms: true
 analytics: false
 
 # Compress CSS
-sass:
-  style: compressed
-  sass_dir: _sass
+
 
 # Compress HTML (in liquid via layouts/compress.html)
 compress_html:
   clippings: all
 
+theme: minimal-mistakes-jekyll
 # set some common post defaults
 defaults:
   -
